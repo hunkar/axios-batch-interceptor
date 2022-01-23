@@ -8,7 +8,8 @@ As a first, required npm modules need to be installed.
 ```bash
 npm install
 ```
-After that you need to set HOST and BASE_API in .env file.
+| You need to set HOST and BASE_API in .env file.   |
+|-----------------------------------------|
 
 You can run with:
 ```bash
